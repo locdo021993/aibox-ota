@@ -1,0 +1,3 @@
+ghi chú đặt tên file cho đúng
+
+firmware_V22.bin / firmware_V23.bin v.v vậy máy mới hiểu
