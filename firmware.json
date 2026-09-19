@@ -1,14 +1,14 @@
 [
   {
     "version": "v2.3",
-    "url": "https://githubusercontent.com"
+    "url": "https://raw . githubusercontent . com/locdo021993/aibox-ota/refs/heads/main/firmware_v23.bin"
   },
   {
     "version": "v2.2",
-    "url": "https://githubusercontent.com"
+    "url": "https://raw . githubusercontent . com/locdo021993/aibox-ota/refs/heads/main/firmware_v22.bin"
   },
   {
     "version": "v2.1",
-    "url": "https://githubusercontent.com"
+    "url": "https://raw . githubusercontent . com/locdo021993/aibox-ota/refs/heads/main/firmware_v21.bin"
   }
 ]
